@@ -1,7 +1,7 @@
 モデル,CPU対応,GPU対応,ライセンス（商用）,取得/導入の難易度,日本語対応,軽量さ,
 manga-ocr,〇,〇,〇（Apache-2.0）,中（pip＋自動DL）,〇,中,
 EasyOCR,〇,〇,〇（Apache-2.0）,易（pip）,〇,中,
-Tesseract (pytesseract),〇,×,〇（Apache-2.0）,中（本体＋langdata）,〇（jpn/jpn-vert）,
+Tesseract (pytesseract),〇,×,〇（Apache-2.0）,中（本体＋langdata）,〇（jpn/jpn-vert）,軽,
 PaddleOCR (PP-OCR系),〇,〇,〇（Apache-2.0）,中（pip＋モデルDL）,〇（lang='japan' など）,中,
 RapidOCR (onnxruntime),〇,※（環境依存）,〇（Apache-2.0）,易（pip）,〇,軽,
 Surya OCR,〇,〇,※（コード: GPL-3.0 / 重み: CC BY-NC-SA）,中〜やや難（条件確認要）,〇,重,
