@@ -20,12 +20,12 @@ A lightweight desktop GUI for **Japanese OCR** that runs **fully on CPU**.
 
 ## Install
 ```bash
-# (recommended) create a virtual env
-python -m venv .VLM_venv
+# (recommended) create a virtual Environment
+python -m venv .venv
 # Windows
-.VLM_venv\Scripts\activate
+.venv\Scripts\activate
 # macOS/Linux
-source .VLM_venv/bin/activate
+source .venv/bin/activate
 ```
 
 ```bash
