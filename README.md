@@ -26,7 +26,9 @@ python -m venv .VLM_venv
 .VLM_venv\Scripts\activate
 # macOS/Linux
 source .VLM_venv/bin/activate
+```
 
+```bash
 pip install --upgrade pip
 pip install manga-ocr torch --index-url https://download.pytorch.org/whl/cpu
 pip install opencv-python Pillow numpy FreeSimpleGUI
