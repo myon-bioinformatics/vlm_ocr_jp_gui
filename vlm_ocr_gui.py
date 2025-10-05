@@ -18,6 +18,7 @@ import cv2
 import numpy as np
 import PIL.Image as PILImage
 import torch
+# import psutil, cpuinfo  # ← Stage4の詳細診断で使用（未導入ならアンコメントしない）
 
 # --- optional backends (top-level import, “ないなら None” で表現) ---
 try:
