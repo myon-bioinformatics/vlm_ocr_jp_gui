@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> **Archived / no longer actively maintained.**
+>
+> This repository is preserved as a historical standalone Japanese OCR desktop experiment (manga-ocr, CPU-oriented image/video OCR). Repository-wide search found no implementation dependency from the owner's other repositories. It is not maintained as a shared OCR component. No further feature, dependency, compatibility, or CI maintenance is planned. Existing source and documentation are retained for reference.
+
 # vlm_ocr_jp_gui
 # VLM OCR GUI (manga-ocr, CPU-only)
 
